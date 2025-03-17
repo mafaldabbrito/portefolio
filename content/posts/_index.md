@@ -1,7 +1,6 @@
 ---
-title: "Content Samples"
-description: "See what's possible with Congo."
-
+title: Home Lab
+description: My experience with cybersecurity and networking
 cascade:
   showEdit: false
   showSummary: true
@@ -11,8 +10,7 @@ cascade:
 Congo brings your content to life. :heart_eyes:
 {{< /lead >}}
 
-This section contains some demo pages that show how Congo renders different types of content. You can also see an example [taxonomy listing]({{< ref "tags" >}}) page.
+My home lab is where I experiment with cybersecurity and networking, mostly on the software side—setting up virtual labs, testing security tools, and exploring how networks and systems interact. It’s my space to break, fix, and learn by doing.
 
-_**Sidenote:** This page is just a standard Congo article listing and Hugo has been configured to generate a `samples` content type and display article summaries._
 
 ---

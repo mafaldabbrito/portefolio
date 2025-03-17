@@ -15,7 +15,7 @@ cd "$SCRIPT_DIR"
 
 # Set variables for Obsidian to Hugo copy
 sourcePath="/mnt/c/Users/mafas/iCloudDrive/iCloud~md~obsidian/Fabric/Portefolio/content"
-destinationPath="/home/mafabrito/Portefolio/content"
+destinationPath="/home/mafabrito/Portefolio/"
 
 # Set GitHub Repo
 myrepo="portefolio"
