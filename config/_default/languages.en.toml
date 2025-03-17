@@ -13,7 +13,7 @@ title = "Mafalda's Portfolio"
   description = "Welcome to my space on the web! Here, I share the projects I work on, from programming experiments to practical applications"
 
 [params.author]
-  name = "Mafalda Brito"
+  name = "Mafalda Barbosa de Brito"
   image = "img/Mafalda_Brito_photo_id.JPG"
   headline = "Master student of Networks and Communication Systems"
   bio = "I am an engineering student at Instituto Superior Técnico. Now on the first year of Master's in Electrical and Computer Engineering, focused on Networks and Communication Systems"
