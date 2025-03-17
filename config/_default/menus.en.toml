@@ -38,7 +38,6 @@
     showName = false
     target = "_blank"
 
-
 [[main]]
   identifier = "search"
   weight = 99
@@ -57,5 +56,11 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-#[[footer]]
-
+[[footer]]
+  name = "IST"
+  url = "https://tecnico.ulisboa.pt/pt/ensino/cursos/mestrados/engenharia-eletrotecnica-e-de-computadores/"
+  weight = 60
+  [footer.params]
+    icon = "IST"
+    showName = false
+    target = "_blank"
