@@ -1,6 +1,14 @@
 #!/bin/bash
 set -euo pipefail
 
+# Ensure a commit message is provided
+if [ "$#" -ne 1 ]; then
+    echo "Usage: $0 \"<commit_message>\""
+    exit 1
+fi
+
+commit_message="$1"
+
 # Change to the script's directory
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
@@ -75,8 +83,7 @@ else
     git add .
 fi
 
-# Step 6: Commit changes with a dynamic message
-commit_message="New Blog Post on $(date +'%Y-%m-%d %H:%M:%S')"
+# Step 6: Commit changes with the provided message
 if git diff --cached --quiet; then
     echo "No changes to commit."
 else
