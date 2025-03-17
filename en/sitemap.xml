@@ -3,24 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+  
+    
       <url>
             <loc>https://mafaldabbrito.com/posts/</loc>
-            <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://mafaldabbrito.com/content/</loc>
-            <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://mafaldabbrito.com/content/posts/</loc>
             <lastmod>2019-03-11T00:00:00+00:00</lastmod>
           </url>
     
@@ -41,13 +27,6 @@
               hreflang="en"
               href="https://mafaldabbrito.com/"
               />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://mafaldabbrito.com/content/posts/first_post/</loc>
-            <lastmod>2019-03-11T00:00:00+00:00</lastmod>
           </url>
     
   
