@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mafalda&#39;s Portfolio</title>
+    <title>Tags on The Mighty Portfolio</title>
     <link>https://mafaldabbrito.com/tags/</link>
-    <description>Recent content in Tags on Mafalda&#39;s Portfolio</description>
+    <description>Recent content in Tags on The Mighty Portfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mafaldabbrito.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Css</title>
-      <link>https://mafaldabbrito.com/tags/css/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://mafaldabbrito.com/tags/css/</guid>
+      <title>Github</title>
+      <link>https://mafaldabbrito.com/tags/github/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mafaldabbrito.com/tags/github/</guid>
       <description></description>
     </item>
     <item>
-      <title>Html</title>
-      <link>https://mafaldabbrito.com/tags/html/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://mafaldabbrito.com/tags/html/</guid>
+      <title>Go</title>
+      <link>https://mafaldabbrito.com/tags/go/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mafaldabbrito.com/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
       <link>https://mafaldabbrito.com/tags/markdown/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://mafaldabbrito.com/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
-      <title>Sample</title>
-      <link>https://mafaldabbrito.com/tags/sample/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://mafaldabbrito.com/tags/sample/</guid>
+      <title>Obsidian</title>
+      <link>https://mafaldabbrito.com/tags/obsidian/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mafaldabbrito.com/tags/obsidian/</guid>
       <description></description>
     </item>
   </channel>
