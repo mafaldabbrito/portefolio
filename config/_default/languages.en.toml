@@ -15,8 +15,8 @@ title = "Mafalda's Portfolio"
 [params.author]
   name = "Mafalda Brito"
   image = "img/Mafalda_Brito_photo_id.JPG"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  headline = "Engeering student"
+  bio = "I am an engineering student at Instituto Superior Técnico. Now on the first year of Master's in Electrical and Computer Engineering, focused on Networks and Communication Systems"
   links = [
     { email = "mailto:mafaldabbrito@tecnico.ulisboa.pt" },
   #  { link = "https://link-to-some-website.com/" },
