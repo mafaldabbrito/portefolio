@@ -58,7 +58,7 @@
 
 [[footer]]
   name = "IST"
-  url = "https://tecnico.ulisboa.pt/pt/ensino/cursos/mestrados/engenharia-eletrotecnica-e-de-computadores/"
+  url = "https://tecnico.ulisboa.pt/en/ensino/cursos/mestrados/engenharia-eletrotecnica-e-de-computadores/"
   weight = 60
   [footer.params]
     icon = "IST"

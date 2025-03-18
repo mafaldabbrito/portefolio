@@ -8,6 +8,6 @@ tags:
   - go
   - github
 ---
-### Why create a website
+### The Mighty Portfolio
 
-Why not? 
+Welcome to my corner on the internet! So
