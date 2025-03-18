@@ -3,39 +3,40 @@ title: Launching this website
 date: 2025-03-11
 description: A brief story about me and this portfolio
 tags:
-  - markdown
-  - obsidian
-  - go
-  - github
+- markdown
+- obsidian
+- go
+- github
 ---
 ### The Mighty Portfolio
 
-Welcome to my corner on the internet ! 
-My name is Mafalda and I am a Master's student of Networks and Communication Systems at Instituto Superior Técnico, University of Lisbon, Portugal.
+Welcome to my corner on the internet! My name is Mafalda, and I’m a Master's student of Networks and Communication Systems at Instituto Superior Técnico, University of Lisbon, Portugal.
 
-To document and share my journey through the fields of Cybersecurity and Networks I created this little portfolio.
+This portfolio is a document and showcase of my journey through cybersecurity and network technologies – a project I’ve been working on to document and share my learning experiences.
 
-In here you will find my small experiments in the [Home Lab]({{< ref "posts" >}}) section and the bigger projects I have been a part of in [Projects]({{< ref "projects" >}}).
+Here you’ll find my experiments in the [Home Lab]({{< ref "posts" >}}) section and the larger projects I’ve been involved in in the [Projects]({{< ref "projects" >}}).
 
 ----
+
 ### Development and Deployment of the Portfolio
 
-So as you may have noticed this website was made with Hugo. [Hugo](https://gohugo.io/) is one of the most popular open-source static site generators. It offers a bunch of themes you can choose from this one is an adaptation of the [Congo](https://jpanther.github.io/congo) theme.
+I built this website with Hugo, a popular open-source static site generator. [Hugo](https://gohugo.io/) is a great choice, offering a wide range of themes to customize the look and feel.  I adapted the [Congo] theme for a starting point, then customized it with a few tweaks.
 
-So first I needed to install **Go** and make sure **Git** was updated. Then install **Hugo** and follow the instructions on Congo's theme page to install the specified theme.
+First, I installed **Go** and ensured I had the latest version of **Git** updated. Then, I installed Hugo and followed the instructions on Congo’s theme page to install the specified theme.
 
-Meanwhile I bought a domain name and transferred it to **Hostinger** so I could host my website in it. Also added a webhook to the [GitHub repo](https://github.com/mafaldabbrito/portefolio) so that every time there are new changes it sends them Hostinger (only the hostinger branch).
+Meanwhile, I secured a domain name and transferred it to **Hostinger** to host my website. I also added a webhook to the [GitHub repo](https://github.com/mafaldabbrito/portefolio) so that every time there are new changes, it automatically sends them to Hostinger – only the hostinger branch.
 
-To simplify the process of adding new articles to the portfolio I adapted a script created by [NetworkChuck](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ&ved=2ahUKEwizqIqa3JSMAxU3IhAIHTmBPdYQFnoECBkQAQ&usg=AOvVaw1SQ5El0uL1lsJ6DCW_W4fJ) (The GOAT), that syncs a folder in my Obsidian vault with the content on my website. Not only that but it commits the changes made and pushes them to GitHub (master and hostinger branch). To this script I added the input argument with a personalized commit message and the ability to navigate through directories (needed for synchronizing the images).
+To streamline the process of adding new articles, I adapted a script created by
+[NetworkChuck](https://www.youtube.com/channel/UC9x0A[NetworkChuck](https://www.google.com/ul?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ&ved=2ahUKEwizqIqa3JSMAxU3IhAIHTmBPdYQFnoECBkQAQ&usg=AOvVaw1SQ5El0uL1lsJ6DCW_W4fJ) (The GOAT), which syncs a folder in my Obsidian vault with the content on my website.  This script also commits the changes made and pushes them to GitHub (master and hostinger branches).  I added a personalized commit message and the ability to
+navigate through directories – crucial for synchronizing images.
 
-All the credits go out to NetworkChuck who did a beautiful tutorial on this : [I started a blog ...](https://youtu.be/dnE7c0ELEH8?si=4yP6pniF4KOdvTXS) 
-
+The credits for this project go to NetworkChuck, who created a fantastic tutorial. 
+[I started a blog ... ](https://youtu.be/dnE7c0ELEH8?si=4yP6pniF4KOdvTXS) 
 
 ---
+
 ### The Idea Behind the Logo
 
 ![Image Description](/images/android-chrome-192x192.png)
 
-According to the internet, my name, Mafalda means **Mighty in battle**. 
-So of course I had to get a Mighty Warrior to represent me. 
-There is also not a better figure to describe my journey through this course.
+According to the internet, my name, Mafalda, means **Mighty in battle**.  So, I wanted to represent that with a warrior figure!  There's no better symbol to describe my journey through this course.
