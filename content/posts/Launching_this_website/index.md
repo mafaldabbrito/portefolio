@@ -34,7 +34,7 @@ All the credits go out to NetworkChuck who did a beautiful tutorial on this : [I
 ---
 ### The Idea Behind the Logo
 
-![Image Description](/images/android-chrome-512x512.png)
+![Image Description](/images/android-chrome-192x192.png)
 
 According to the internet, my name, Mafalda means **Mighty in battle**. 
 So of course I had to get a Mighty Warrior to represent me. 
