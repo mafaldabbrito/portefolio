@@ -28,7 +28,7 @@ Meanwhile I bought a domain name and transferred it to **Hostinger** so I could 
 
 To simplify the process of adding new articles to the portfolio I adapted a script created by [NetworkChuck](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ&ved=2ahUKEwizqIqa3JSMAxU3IhAIHTmBPdYQFnoECBkQAQ&usg=AOvVaw1SQ5El0uL1lsJ6DCW_W4fJ) (The GOAT), that syncs a folder in my Obsidian vault with the content on my website. Not only that but it commits the changes made and pushes them to GitHub (master and hostinger branch). To this script I added the input argument with a personalized commit message and the ability to navigate through directories (needed for synchronizing the images).
 
-All the credits go out to NetworkChuck who did a beautiful tutorial on this $\rightarrow$ [I started a blog ...](https://youtu.be/dnE7c0ELEH8?si=4yP6pniF4KOdvTXS) 
+All the credits go out to NetworkChuck who did a beautiful tutorial on this : [I started a blog ...](https://youtu.be/dnE7c0ELEH8?si=4yP6pniF4KOdvTXS) 
 
 
 ---
@@ -36,4 +36,5 @@ All the credits go out to NetworkChuck who did a beautiful tutorial on this $\ri
 
 !![Image Description](/images/android-chrome-512x512.png)
 
-According to the internet :Clown: my name Mafalda means **Mighty in battle**. So of course I had to get a Mighty Warrior to represent me.
+According to the internet 🤡 my name Mafalda means **Mighty in battle**. 
+So of course I had to get a ==Mighty Warrior== to represent me.
