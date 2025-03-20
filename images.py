@@ -16,8 +16,8 @@ for root, _, files in os.walk(posts_dir):
             with open(filepath, "r") as file:
                 content = file.read()
             
-            # Step 2: Find all image links in the format [[image.png]]
-            images = re.findall(r'\[\[([^]]*\.png)\]\]', content)
+            # Step 2: Find all image links with .png, .jpg, or .jpeg extensions
+            images = re.findall(r'\[\[([^]]*\.(?:png|jpg|jpeg))\]\]', content, re.IGNORECASE)
             
             # Step 3: Replace image links and ensure URLs are correctly formatted
             for image in images:
