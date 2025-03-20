@@ -72,10 +72,9 @@ In the **Demo Day** we were given the award for the **best Website** ([link here
 - [Website](https://pic-visualize-tomasgesteves-9a2c6c6209ed433189c5c458214944da393.gitlab.io/)
 - [Video](https://drive.google.com/file/d/1GkTPM2VJgZ0KTbibQ-1wdJnFUcs3CBCX/view?usp=sharing)
 
-<iframe src="https://drive.google.com/file/d/1GkTPM2VJgZ0KTbibQ-1wdJnFUcs3CBCX/preview" width="640" height="480" allow="autoplay"></iframe>
-
-
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <iframe src="https://drive.google.com/file/d/1GkTPM2VJgZ0KTbibQ-1wdJnFUcs3CBCX/preview" width="640" height="480" allow="autoplay"></iframe>
+</div>
 
 
 
