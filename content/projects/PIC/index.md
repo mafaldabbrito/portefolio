@@ -5,10 +5,8 @@ description: The story behind the my Bachelor's final project, the development p
 tags:
   - python
   - Flutter
-  - GitLab
   - Google
   - Maps
-  - Google
   - API
   - Indoor
   - Directions
