@@ -7,11 +7,15 @@ cascade:
 ---
 
 {{< lead >}}  
-Hacking, learning, and breaking (safely) 🔥💻  
+Hacking, learning, and creating 💻  
 {{< /lead >}}  
 
 
-My home lab is where I experiment with **cybersecurity** and **networking** (mostly software). Setting up virtual labs , testing security tools, and exploring how networks and systems interact. It’s my space to break, fix, and **learn by doing**.
+My home lab is where I experiment with **cybersecurity** and **networking**. Setting up virtual labs , testing security tools, and exploring how networks and systems interact. It’s my space to break, fix, and **learn by doing**.
 
+**Posts coming up :**
+
+- Bought a Cisco C2960X 24 PS Switch
+- Software Security Project on analyzing JavaScript
 
 ---
