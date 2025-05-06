@@ -6,20 +6,76 @@
     <description>Recent content in Tags on The Mighty Portfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mafaldabbrito.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>#Python</title>
-      <link>https://mafaldabbrito.com/tags/%23python/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://mafaldabbrito.com/tags/%23python/</guid>
+      <title>API</title>
+      <link>https://mafaldabbrito.com/tags/api/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mafaldabbrito.com/tags/api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>https://mafaldabbrito.com/tags/css/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mafaldabbrito.com/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Figma</title>
+      <link>https://mafaldabbrito.com/tags/figma/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mafaldabbrito.com/tags/figma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>https://mafaldabbrito.com/tags/git/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mafaldabbrito.com/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Github</title>
       <link>https://mafaldabbrito.com/tags/github/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
       <guid>https://mafaldabbrito.com/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://mafaldabbrito.com/tags/html/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mafaldabbrito.com/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>https://mafaldabbrito.com/tags/javascript/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mafaldabbrito.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://mafaldabbrito.com/tags/python/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mafaldabbrito.com/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vue</title>
+      <link>https://mafaldabbrito.com/tags/vue/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mafaldabbrito.com/tags/vue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>#Python</title>
+      <link>https://mafaldabbrito.com/tags/%23python/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mafaldabbrito.com/tags/%23python/</guid>
       <description></description>
     </item>
     <item>
@@ -58,24 +114,10 @@
       <description></description>
     </item>
     <item>
-      <title>API</title>
-      <link>https://mafaldabbrito.com/tags/api/</link>
-      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://mafaldabbrito.com/tags/api/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Directions</title>
       <link>https://mafaldabbrito.com/tags/directions/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://mafaldabbrito.com/tags/directions/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Figma</title>
-      <link>https://mafaldabbrito.com/tags/figma/</link>
-      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://mafaldabbrito.com/tags/figma/</guid>
       <description></description>
     </item>
     <item>
@@ -104,13 +146,6 @@
       <link>https://mafaldabbrito.com/tags/maps/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://mafaldabbrito.com/tags/maps/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://mafaldabbrito.com/tags/python/</link>
-      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://mafaldabbrito.com/tags/python/</guid>
       <description></description>
     </item>
   </channel>
