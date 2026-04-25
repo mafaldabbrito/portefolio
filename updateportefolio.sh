@@ -18,7 +18,7 @@ sourcePath="/mnt/c/Users/mafas/iCloudDrive/iCloud~md~obsidian/Fabric/Portefolio/
 destinationPath="/mnt/c/Users/mafas/Documents/Projects/The Mighty Portfolio/portefolio"
 
 # Set GitHub Repo
-myrepo="portefolio"
+myrepo="git@github.com:mafaldabbrito/portefolio.git"
 
 # Check for required commands
 for cmd in git rsync python3 hugo; do
@@ -37,7 +37,7 @@ else
     echo "Git repository already initialized."
     if ! git remote | grep -q 'origin'; then
         echo "Adding remote origin..."
-        git remote add origin $myrepo
+        git remote set-url origin "$myrepo" || git remote add origin "$myrepo"
     fi
 fi
 
