@@ -35,11 +35,10 @@ if [ ! -d ".git" ]; then
     git remote add origin $myrepo
 else
     echo "Git repository already initialized."
-    if ! git remote | grep -q 'origin'; then
-        echo "Adding remote origin..."
-        git remote set-url origin "$myrepo" || git remote add origin "$myrepo"
-    fi
+    # Always ensure the remote URL is correct (in case it was set incorrectly before)
+    git remote set-url origin "$myrepo" 2>/dev/null || git remote add origin "$myrepo"
 fi
+
 
 # Step 2: Sync posts from Obsidian to Hugo content folder using rsync
 echo "Syncing posts from Obsidian..."
