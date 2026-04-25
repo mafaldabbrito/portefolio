@@ -1,108 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://mafaldabbrito.com/projects/jeec25/</loc>
-            <lastmod>2025-05-05T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://mafaldabbrito.com/projects/</loc>
-            <lastmod>2025-05-05T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://mafaldabbrito.com/</loc>
-            <lastmod>2025-05-05T00:00:00+00:00</lastmod>
-            <xhtml:link
-              rel="alternate"
-              hreflang="pt"
-              href="https://mafaldabbrito.com/pt/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://mafaldabbrito.com/"
-              />
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://mafaldabbrito.com/projects/biko/</loc>
-            <lastmod>2025-03-11T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://mafaldabbrito.com/posts/</loc>
-            <lastmod>2025-03-11T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://mafaldabbrito.com/posts/launching_this_website/</loc>
-            <lastmod>2025-03-11T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://mafaldabbrito.com/projects/pic/</loc>
-            <lastmod>2024-06-29T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
+  <url>
+    <loc>https://mafaldabbrito.com/tags/api/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/css/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/figma/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/git/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/github/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/html/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/javascript/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/projects/jeec25/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/projects/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/python/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-pt"
+                href="https://mafaldabbrito.com/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mafaldabbrito.com/tags/"
+                />
+  </url><url>
+    <loc>https://mafaldabbrito.com/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-pt"
+                href="https://mafaldabbrito.com/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mafaldabbrito.com/"
+                />
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/vue/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/projects/biko/</loc>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/go/</loc>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/posts/</loc>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/posts/launching_this_website/</loc>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/markdown/</loc>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/networks/</loc>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/obsidian/</loc>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/rfid/</loc>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/projects/pic/</loc>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/flutter/</loc>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/google/</loc>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/tags/maps/</loc>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mafaldabbrito.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-pt"
+                href="https://mafaldabbrito.com/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mafaldabbrito.com/categories/"
+                />
+  </url>
 </urlset>
