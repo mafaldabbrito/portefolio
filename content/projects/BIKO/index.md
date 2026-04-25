@@ -4,15 +4,19 @@ date: 2025-03-11
 description: Vehicular Networks course final project
 tags:
   - Networks
-  - "#python"
-  - Wireless
+  - Python
+  - RFID
 ---
 
 ## **Vehicular Networks and Cooperative Mobility Systems**
 
-This course explored the technologies behind intelligent mobility, focusing on **wireless communication**, **autonomous cooperative systems**, and **vehicular networks**. I worked with concepts like **V2X communication**, **network architecture**, **protocol stacks**, and **Internet integration**.
 
-We studied **cooperative applications** for mobility, their **network requirements**, and how to support them using **event-driven and periodic services**. At the transport level, I learned about **MANET routing**, **location-based addressing**, **IPv6**, and **Mobile IP**, gaining hands-on knowledge of how real-time communication and data flow are managed in dynamic, mobile environments.
+
+This course explored the technologies behind **intelligent mobility**, focusing on **wireless communication**, **autonomous cooperative systems**, and **vehicular networks**. I worked with concepts like **V2X communication**, **network architecture**, **protocol stacks**, and **Internet integration**.
+
+As part of this course, my team and I participated in a **competition organized by Critical TechWorks**, where we achieved **second place**.
+
+We studied **cooperative applications for mobility**, their **network requirements**, and how to support them using **event-driven and periodic services**. At the transport level, I learned about **MANET routing**, **location-based addressing**, **IPv6**, and **Mobile IP**, gaining hands-on knowledge of how **real-time communication and data flow** are managed in **dynamic, mobile environments**.
 
 ---
 ## Problem to solve

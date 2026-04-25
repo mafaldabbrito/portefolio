@@ -14,8 +14,8 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
 # Set variables for Obsidian to Hugo copy
-sourcePath="/mnt/c/Users/mafas/iCloudDrive/iCloud~md~obsidian/Fabric/Portefolio/content"
-destinationPath="/home/mafabrito/Portefolio/"
+sourcePath="/mnt/c/Users/mafas/iCloudDrive/iCloud~md~obsidian/Fabric/Portefolio/congo/content"
+destinationPath="/mnt/c/Users/mafas/Documents/Projects/The Mighty Portfolio/portefolio"
 
 # Set GitHub Repo
 myrepo="portefolio"

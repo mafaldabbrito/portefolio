@@ -6,10 +6,6 @@ cascade:
   showSummary: true
 ---
 
-{{< lead >}}  
-Hacking, learning, and creating 💻  
-{{< /lead >}}  
-
 
 My home lab is where I experiment with **cybersecurity** and **networking**. Setting up virtual labs , testing security tools, and exploring how networks and systems interact. It’s my space to break, fix, and **learn by doing**.
 

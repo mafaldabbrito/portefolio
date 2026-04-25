@@ -20,7 +20,6 @@ tags:
 
 I integrated the **Web Development team** in June of 2024 and since then have been involved in implementing the front end and communication with the back end server for the back office, website, and web application.
 
-![Image Description](/images/GHGUVI4XsAALQGg.jpeg)
 
 ----
 ### My work

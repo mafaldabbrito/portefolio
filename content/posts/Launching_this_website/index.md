@@ -36,6 +36,6 @@ The credits for this project go to NetworkChuck, who created a fantastic tutoria
 
 ### The Idea Behind the Logo
 
-![Image Description](/images/android-chrome-192x192.png)
+[[android-chrome-192x192.png]]
 
 According to the internet, my name, **Mafalda**, means **Mighty in battle**.  So, I wanted to represent that with a warrior figure!  There's no better symbol to describe my journey through this course.

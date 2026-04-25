@@ -8,8 +8,6 @@ tags:
   - Google
   - Maps
   - API
-  - Indoor
-  - Directions
   - Figma
 ---
 ### VISUALIZE  
@@ -47,7 +45,7 @@ I was in charge of **integrating the Google Maps's and the haptics clues** with 
 5. Repeats the above steps continuously **until the user reaches the destination**.
 
 *Sneak Peak into our final presentation*
-![Image Description](/images/Visualize-ppt.png)
+[[Visualize-ppt.png]]
 
 
 ---
@@ -59,7 +57,7 @@ Overall it was a great experience to learn how to work with **Flutter** and how 
 
 In the **Demo Day** we were given the award for the **best Website** ([link here](https://pic-visualize-tomasgesteves-9a2c6c6209ed433189c5c458214944da393.gitlab.io/)), **honorable mention** for the **Prototype** and decided by the public **second Best Overall Product**.
 
-![Image Description](/images/DemoDay.jpg)
+[[DemoDay.jpg]]
 
 
 
